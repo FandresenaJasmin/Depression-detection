@@ -1,4 +1,4 @@
-#CLINICAL DEPRESSION PREDICTION FROM SPEECH USING DEEP NEURAL NETWORK
+## CLINICAL DEPRESSION PREDICTION FROM SPEECH USING DEEP NEURAL NETWORK
 
 we present a deep Neural Network-based architecture called EmoAudioNet which studies the time-frequency representation of the audio signal and the visual representation of its spectrum of frequencies. Two applications are performed using EmoAudioNet : automatic clinical depression recognition and continuous dimensional emotion recognition from speech. The extensive experiments showed that the proposed approach significantly outperforms the state-of-art approaches on RECOLA and DAIC-WOZ databases. The competitive results call for applying EmoAudioNet on others affects and emotions recognition from speech applications.
  
