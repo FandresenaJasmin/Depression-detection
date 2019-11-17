@@ -10,9 +10,16 @@ This project contains:
  * Data augmentation techniques
  * Assessing Depression/Non-Depression & Identify the depression severity levels & Gender-based depression Assessment
 
+![alt test](screenshots/picturename)
+
+# DAIC-WOZ Depression Database : 
+Description
+FEATURES
+LABELS
+
 
 
 
 ## Authors
 
-* **Zaineb Abdelli** - **Emna Rejaibi** - 
+* **Zaineb Abdelli** - **Emna Rejaibi** - **A. Komaty**
